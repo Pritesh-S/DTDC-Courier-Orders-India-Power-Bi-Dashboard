@@ -7,8 +7,9 @@ Interactive Power BI dashboard for courier and logistics analytics.
 # 📸 Dashboard Screenshots
 
 ## Executive Dashboard
-![Executive Dashboard](executive_dashboard.png)
-![Executive Dashboard-2](executive_dashboard_2.png)
+![Dashboard 1](dashboard1.png)
+
+![Dashboard 2](dashboard2.png)
 
 ## Features
 - Shipment Analysis
